@@ -3,23 +3,21 @@
 
 # Project Scope
 ### Project Vision
-*
-*
-*
+* (vision statement here)
 ## Project Description
 ### Problem
-*
+* (describe the problem you want to solve)
 ### Target Audience
-*
-*
-*
+* (target audience 1)
+* (target audience 2)
+* (target audience 3)
 ### Needs
-*
-*
-*
+* (why is this project needed (1))
+* (why is this project needed (2))
+* (why is this project needed (3))
 ## Goals and My Approach
 ### Goals
-*
+* 
 *
 *
 ### My Approach
