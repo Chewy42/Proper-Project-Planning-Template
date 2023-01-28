@@ -3,6 +3,9 @@
 
 # Project Scope
 ### Project Vision
+*
+*
+*
 ## Project Description
 ### Problem
 *
