@@ -1,4 +1,4 @@
-# <PROJECT NAME>
+# PROJECT_NAME_HERE
 ## By Matt Favela B.S. Data Science, Chapman University
 
 # Project Scope
