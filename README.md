@@ -1,5 +1,6 @@
 ## Extra Resources
-[Examples](./PROJECT-PLAN-EXAMPLES)
+* [Canva Presentation](https://www.canva.com/design/DAFYniN6W94/A2TvbPNBQYO3IraNQFb-Sw/view?utm_content=DAFYniN6W94&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=GGCtZCBPrQ)
+* [Official Project Plan Document](https://docs.google.com/document/d/1I_AkIlvLpe8on2giyi0yzLafN5rmTGNL/edit?usp=sharing&ouid=101896239903986119396&rtpof=true&sd=true)
 
 # PROJECT_NAME_HERE
 ## By Matt Favela B.S. Data Science, Chapman University
