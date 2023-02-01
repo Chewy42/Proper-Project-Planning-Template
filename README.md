@@ -1,3 +1,6 @@
+## Extra Resources
+[Examples](./PROJECT-PLAN-EXAMPLES)
+
 # PROJECT_NAME_HERE
 ## By Matt Favela B.S. Data Science, Chapman University
 
